@@ -14,7 +14,7 @@ Python 3.9+
 
 # Как запустить
 1. Клонируйте репозиторий:
-git clone https://github.com/username/repo.git
+git clone https://github.com/Konorazov/my-diplom
 cd repo
 2. Установите зависимости:
 pip install -r requirements.txt
